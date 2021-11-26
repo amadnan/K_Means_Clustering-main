@@ -1,1 +1,2 @@
-# K_Means_Clustering-main
+# K_Means_Clustering
+ Unsupervised learing algorithm
